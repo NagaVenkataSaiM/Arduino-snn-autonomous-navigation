@@ -1,7 +1,7 @@
 # Autonomous Navigation for Planetary Rovers Using R-STDP SNN
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.example.svg)](10.5281/zenodo.18302683)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18302683.svg)](10.5281/zenodo.18302683)
 
 This repository contains the software implementation and hardware schematics for the paper **"Autonomous Navigation for Planetary Rovers Using Reward-Modulated Spiking Neural Networks on Embedded Hardware."**
 
