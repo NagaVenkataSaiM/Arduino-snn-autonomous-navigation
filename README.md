@@ -22,15 +22,15 @@ We present a neuromorphic control framework that enables planetary rovers to lea
 ## 📊 Key Results
 ### 1. Learning Convergence
 The SNN learns to classify terrain (Red/Green) with >95% accuracy in under 50 epochs.
-![Learning Curve](results/figures/SNN_Color_training.png)
+![Learning Curve](Results/figures/SNN_Color_training.png)
 
 ### 2. Computational Efficiency
 Our event-driven SNN requires only 396 FLOPs per decision, compared to 1350 for an ANN.
-![Efficiency](results/figures/benchmark_test.png)
+![Efficiency](Results/figures/benchmark_test.png)
 
 ## 🎥 Video Demonstration
 Click below to watch the rover in action:
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=k-ozVE-jn88)
+[![Watch the video](https://img.youtube.com/vi/v=k-ozVE-jn88/0.jpg)](https://www.youtube.com/watch?v=k-ozVE-jn88)
 
 ## 🔗 Citation
 If you use this code in your research, please cite our paper
