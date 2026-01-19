@@ -30,14 +30,15 @@ Our event-driven SNN requires only 396 FLOPs per decision, compared to 1350 for 
 
 ## 🎥 Video Demonstration
 Click below to watch the rover in action:
-![Watch the video](https://www.youtube.com/watch?v=k-ozVE-jn88)
+[Watch the video](https://www.youtube.com/watch?v=k-ozVE-jn88)
 
 ## Authors
-![Naga Venkata Sai Mada](https://www.linkedin.com/in/naga-venkata-sai-m-849446205/) ORCID ID : 0009-0002-1377-2686
+[Naga Venkata Sai Mada](https://www.linkedin.com/in/naga-venkata-sai-m-849446205/) ORCID ID : 0009-0002-1377-2686
 
-![Yashaswini](https://www.linkedin.com/in/yashaswini-rao-bhogarajula-4b1792230/)
+[Yashaswini](https://www.linkedin.com/in/yashaswini-rao-bhogarajula-4b1792230/)
 
-![Tharani](https://www.linkedin.com/in/tharanichandan/)
+[Tharani](https://www.linkedin.com/in/tharanichandan/)
 
 ## 🔗 Citation
-If you use this code in your research, please cite our paper
+If you use this code in your research, please cite our paper:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18302683.svg)](https://doi.org/10.5281/zenodo.18302683)
