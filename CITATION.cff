@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "[Mada]"
+  given-names: "[Naga Venkata Sai Mada]"
+  orcid: "https://orcid.org/0009-0002-1377-2686"
+title: "Neuromorphic Control Framework for Planetary Rovers (R-STDP SNN)"
+version: 1.0.0
+date-released: 2026-01-19
+url: "https://github.com/NagaVenkataSaiM/neuromorphic-rover-snn"
